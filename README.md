@@ -135,6 +135,7 @@ foo@bar $ KUBECONFIG=~/.kube/config $/.kube/kubconfig2
 foo@bar $ kubectl config view
 ```
 ### :arrow_right: Acesso a VPN e AWS
+Aqui é preciso falar com o **@douglas** (VPN e AWS) ou o **@andriosr** (AWS). Talvez isso mude, ou não.
 ### :arrow_right: Configurar VPN
 1. Primeiro de tudo, instalaremos o [openfortivpn](https://apps.fedoraproject.org/packages/openfortivpn).
 ```console
