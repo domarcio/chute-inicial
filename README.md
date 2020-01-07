@@ -136,6 +136,26 @@ foo@bar $ kubectl config view
 ```
 ### :arrow_right: Acesso a VPN e AWS
 ### :arrow_right: Configurar VPN
+1. Primeiro de tudo, instalaremos o [openfortivpn](https://apps.fedoraproject.org/packages/openfortivpn).
+```console
+foo@bar $ sudo dnf install openfortivpn
+```
+2. Após a instalação, criaremos um arquivo que contém nossas [credenciais de acesso](#arrow_right-acesso-a-vpn-e-aws).
+```console
+foo@bar $ sudo vim /etc/openfortivpn/config
+```
+No arquivo nós adicionaremos as seguintes informações:
+```
+host = 
+port = 
+username = 
+password = 
+trusted-cert = 
+```
+3.Assim já é possível se conectar à VPN via linha de comando.
+```console
+foo@bar $ openfortivpn -c /etc/openfortivpn/config
+```
 
 ## Opcionais
 
