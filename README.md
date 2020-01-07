@@ -152,7 +152,7 @@ username =
 password = 
 trusted-cert = 
 ```
-3.Assim já é possível se conectar à VPN via linha de comando.
+3.Assim já é possível se conectar na VPN via linha de comando.
 ```console
 foo@bar $ openfortivpn -c /etc/openfortivpn/config
 ```
