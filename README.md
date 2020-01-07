@@ -7,37 +7,24 @@ Todos os exemplos são para Linux (Fedora), porém são facilmente adaptáveis p
 ## Resumo
 Um rápido resumo do que é preciso para o nosso primeiro chute:
 
-:heavy_check_mark: **Docker**
-
-:heavy_check_mark: **Git**
-
-:heavy_check_mark: **Groovy**
-
-:heavy_check_mark: **Golang**
-
-:heavy_check_mark: **Slack**
-
-:heavy_check_mark: **IntelliJ IDEA Community _(JetBrains Toolbox)_**
-
-:heavy_check_mark: **VS Code**
-
-:heavy_check_mark: **DBeaver Community**
-
-:heavy_check_mark: **Abrir uma tarefa para o Goleiro liberar os acessos**
-
-:heavy_check_mark: **kubectl**
-
-:heavy_check_mark: **Acesso a VPN e AWS**
-
-:heavy_check_mark: **Configurar VPN**
+- **Docker**
+- **Git**
+- **Groovy**
+- **Golang**
+- **Slack**
+- **IntelliJ IDEA Community _(JetBrains Toolbox)_**
+- **VS Code**
+- **DBeaver Community**
+- **Abrir uma tarefa para o Goleiro liberar os acessos**
+- **kubectl**
+- **Acesso a VPN e AWS**
+- **Configurar VPN**
 
 Opcionais:
 
-:heavy_check_mark: **Terminator**
-
-:heavy_check_mark: **ZSH + Oh My ZSH**
-
-:heavy_check_mark: **Insomnia REST Client**
+- *Terminator*
+- *ZSH + Oh My ZSH*
+- *Insomnia REST Client*
 
 ## Iniciar
 
