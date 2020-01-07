@@ -1,6 +1,6 @@
 
 # Chute Inicial
-Abaixo um check-list de algumas coisas para fazer após instalar o _S.O_. O objetivo é ajudar novos devs com um pequeno guia.
+Abaixo um check-list de algumas coisas para fazer após instalar o _S.O_. O objetivo é ajudar novos devs **Backend** com um pequeno guia.
 
 Todos os exemplos são para Linux (Fedora), porém são facilmente adaptáveis para qualquer sistema.
 
