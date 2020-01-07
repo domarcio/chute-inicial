@@ -1,0 +1,11 @@
+{
+    "editor.renderWhitespace": "boundary",
+    "editor.rulers": [80],
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorCustomizations": {
+        "editorRuler.foreground": "#ff0000"
+    },
+    "extensions.ignoreRecommendations": false,
+    "window.zoomLevel": 0,
+    "go.formatTool": "goimports"
+}
