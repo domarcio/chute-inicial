@@ -50,7 +50,7 @@ foo@bar:~ ssh-keygen -t rsa -b 4096 -C "seuemail@pismo.io"
 ```console
 foo@bar:~ cat ~/.ssh/id_rsa.pub
 ```
-3. Adicione a chave ao teu repositório.
+3. Adicione a chave nas [suas configurações](https://github.com/settings/keys).
 
 ### :arrow_right: Groovy
 ```console
@@ -104,7 +104,7 @@ foo@bar:~ wget https://dbeaver.io/files/dbeaver-ce-latest-stable.x86_64.rpm
 foo@bar:~ sudo dnf install dbeaver-ce-latest-stable.x86_64.rpm
 ```
 ### :arrow_right: Abrir uma tarefa para o Goleiro liberar os acessos
-Primeiro é preciso entrar no channel [**#goleiro**](https://pismo.slack.com/archives/CPQT2BGR4). Depois leia as [regras para criar uma Task](https://app.gitbook.com/@pismo-docs/s/goleiro/).
+Leia as [regras para criar uma Task](https://app.gitbook.com/@pismo-docs/s/goleiro/) ao [**#goleiro**](https://pismo.slack.com/archives/CPQT2BGR4).
 
 Agora é preciso abrir 2 tarefas (como nos exemplos abaixo) para pedir os acessos:
 - Acesso ao Github: https://pismolabs.atlassian.net/browse/GOL-236
