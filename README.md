@@ -157,7 +157,7 @@ trusted-cert =
 foo@bar $ sudo openfortivpn -c /etc/openfortivpn/config
 ```
 
-**Aqui nossa VPN já está funcional**, mas uma maneira legal de se conectar na VPN é adicioná-la ao Network do *S.O*.
+**Aqui nossa VPN já está funcional**, mas uma maneira legal usá-la é adicionar ao Network do *S.O*.
 
 1. Instale o [fortisslvpn](https://gitlab.gnome.org/GNOME/NetworkManager-fortisslvpn).
 ```console
