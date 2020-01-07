@@ -110,7 +110,7 @@ Agora é preciso abrir 2 tarefas (como nos exemplos abaixo) para pedir os acesso
 - Acesso ao Github: https://pismolabs.atlassian.net/browse/GOL-236
 - k8s: https://pismolabs.atlassian.net/browse/GOL-284
 
-*Aqui temos um impasse. Para ler as regras do goleiro é preciso de acesso ao Gitbook. Para pedir acesso ao Gitbook é preciso de uma tarefa no GOL. No meu caso (@domarcio) caso um amiguinho me ajudou e criar a task "nos conformes" sem precisar ler a doc.*
+*Aqui temos um impasse. Para ler as regras do goleiro é preciso de acesso ao Gitbook. Para pedir acesso ao Gitbook é preciso de uma tarefa no GOL. No meu caso (mnogues) um amiguinho me ajudou e criar a task "nos conformes" sem precisar ler a doc.*
 ### :arrow_right: kubectl
 ```console
 foo@bar $ cd Downloads/
