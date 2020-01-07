@@ -157,6 +157,19 @@ trusted-cert =
 foo@bar $ sudo openfortivpn -c /etc/openfortivpn/config
 ```
 
+**Aqui nossa VPN já está funcional**, mas uma maneira legal de se conectar na VPN é adicioná-la ao Network do *S.O*.
+
+1. Instale o [fortisslvpn](https://gitlab.gnome.org/GNOME/NetworkManager-fortisslvpn).
+```console
+foo@bar $ sudo dnf install NetworkManager-fortisslvpn-gnome.x86_64
+```
+2. Agora procure pela opção *Network*, essa opção está no *Settings* do **F31**.
+3. Clique no :heavy_plus_sign: e selecione a opção **Fortinet SSLVPN**.
+4. Na aba *Identity*, preencha com as informações que já temos, são as mesmas usadas para se conectar com a VPN via linha de comando. Depois clique no botão *Advanced...* e preencha o campo *Trusted certificate* com o nosso `trusted-cert`.
+5. Depois disso vá até a aba *IPv4* e faça um check da opção *Use this connection only for resources on its network*.
+
+Pronto! Agora é possível conectar-se na VPN com apenas um clique.
+
 ## Opcionais
 
 ### :arrow_right: *Terminator*
