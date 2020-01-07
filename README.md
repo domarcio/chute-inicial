@@ -154,7 +154,7 @@ trusted-cert =
 ```
 3.Assim já é possível se conectar na VPN via linha de comando.
 ```console
-foo@bar $ openfortivpn -c /etc/openfortivpn/config
+foo@bar $ sudo openfortivpn -c /etc/openfortivpn/config
 ```
 
 ## Opcionais
