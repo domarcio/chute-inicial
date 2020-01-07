@@ -52,6 +52,7 @@ Caso queira usar o Docker ao invés do Podman (no Fedora,) veja [esse link](http
 Fedora já vem com o Git instalado. :blush:
 
 **Dica: Configurar SSH no Github**
+
 Você pode olhar o tutorial oficial de como [gerar a chave](https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) e depois [adicioná-la ao Github](https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account). Se preferir pode seguir os passos abaixo.
 
 1. Gerar a chave.
