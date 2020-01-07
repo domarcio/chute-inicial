@@ -1,0 +1,10 @@
+[user]
+	email = githubmail
+	name = githubname
+[alias]
+	st = status
+	ck = checkout
+	co = commit -m
+	ps = push origin
+	pl = pull origin
+	fo = fetch origin
