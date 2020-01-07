@@ -50,7 +50,7 @@ foo@bar:~ $ ssh-keygen -t rsa -b 4096 -C "seuemail@pismo.io"
 ```console
 foo@bar:~ $ cat ~/.ssh/id_rsa.pub
 ```
-3. Adicione a chave ao teu repositório.
+3. Adicione a chave nas [suas configurações](https://github.com/settings/keys).
 
 ### :arrow_right: Groovy
 ```console
