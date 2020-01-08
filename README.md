@@ -36,7 +36,10 @@ foo@bar $ sudo dnf install podman && sudo dnf install podman-compose
 Caso queira usar o Docker ao invés do Podman (no Fedora,) veja [esse link](https://www.linuxuprising.com/2019/11/how-to-install-and-use-docker-on-fedora.html).
 
 ### :arrow_right: Git
-Fedora já vem com o Git instalado. :blush:
+Fedora já vem com o Git instalado. :blush: Porém nada que um `dnf install` não resolva:
+```console
+foo@bar $ sudo dnf install git
+```
 
 **Dica: Configurar SSH no Github**
 
