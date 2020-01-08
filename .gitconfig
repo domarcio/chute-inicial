@@ -8,3 +8,5 @@
 	ps = push origin
 	pl = pull origin
 	fo = fetch origin
+[url "git@github.com:"]
+	insteadOf = https://github.com/
