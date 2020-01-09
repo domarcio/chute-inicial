@@ -131,7 +131,7 @@ foo@bar $ vi .kube/config
 ```
 2. Use vários arquivos kubeconfig ao mesmo tempo
 ```console
-foo@bar $ KUBECONFIG=~/.kube/config $/.kube/kubconfig2
+foo@bar $ KUBECONFIG=~/.kube/config:~/.kube/kubconfig2
 ```
 3. Valide as informações da configuração
 ```console
