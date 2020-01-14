@@ -189,7 +189,7 @@ foo@bar $ sudo dnf install zsh
 ```
 Agora partimos para a instalação manual do **Oh My ZSH**.
 ```console
-foo@bar $ git clone https://github.com/ohmyzsh/ohmyzsh.git ~/.oh-my-zsh
+foo@bar $ git clone git@github.com:ohmyzsh/ohmyzsh.git ~/.oh-my-zsh
 foo@bar $ cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
 foo@bar $ chsh -s $(which zsh)
 ```
