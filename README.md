@@ -92,14 +92,16 @@ foo@bar $ sudo dnf check-update
 foo@bar $ sudo dnf install code
 ```
 Algumas extensões legais:
-- [Docker      ](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
-- [Git History ](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
-- [GitLens     ](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-- [Go          ](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go)
-- [Go Critic   ](https://marketplace.visualstudio.com/items?itemName=neverik.go-critic)
-- [Go Doc      ](https://marketplace.visualstudio.com/items?itemName=msyrus.go-doc)
-- [Go Outliner ](https://marketplace.visualstudio.com/items?itemName=766b.go-outliner)
-- [PlantUML    ](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml)
+- [Docker         ](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+- [Git History    ](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+- [GitLens        ](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- [Go             ](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go)
+- [Go Critic      ](https://marketplace.visualstudio.com/items?itemName=neverik.go-critic)
+- [Go Doc         ](https://marketplace.visualstudio.com/items?itemName=msyrus.go-doc)
+- [Go Outliner    ](https://marketplace.visualstudio.com/items?itemName=766b.go-outliner)
+- [PlantUML       ](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml)
+- [vscode-icons   ](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 ### :arrow_right: DBeaver CE
 ```console
 foo@bar $ cd Downloads/
