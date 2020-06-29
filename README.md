@@ -144,6 +144,13 @@ foo@bar $ KUBECONFIG=~/.kube/config:~/.kube/kubconfig2
 foo@bar $ kubectl config view
 ```
 
+### AWS Cli
+1. Instalar o comando [aws cli](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-linux.html).
+```console
+foo@bar $ sudo dnf install awscli
+```
+2. [Configurar](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html#cli-configure-quickstart-config) de acordo com as [credenciais fornecidas pelo goleiro](#acesso-vpn-aws-k8s-...).
+
 ### Configurar VPN
 1. Primeiro de tudo, instalaremos o [openfortivpn](https://apps.fedoraproject.org/packages/openfortivpn).
 ```console
