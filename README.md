@@ -14,7 +14,7 @@ Um rápido resumo do que é preciso para o nosso primeiro chute:
 - [**IntelliJ IDEA Community _(JetBrains Toolbox)_**](#intelliJ-idea-community-JetBrains-toolbox)
 - [**VS Code**](#vs-code)
 - [**DBeaver Community**](#dbeaver-community)
-- [**Acesso VPN, AWS, k8s, ...**](#acesso-vpn-aws-k8s-...)
+- [**Acesso VPN, AWS, k8s, ...**](#acesso-vpn-aws-k8s-)
 - [**Kubectl**](#kubectl)
 - [**AWS Cli**](#aws-cli)
 - [**Configurar VPN**](#configurar-vpn)
