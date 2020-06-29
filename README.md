@@ -8,6 +8,8 @@ Todos os exemplos são para Linux (Fedora), porém são facilmente adaptáveis p
 Um rápido resumo do que é preciso para o nosso primeiro chute:
 
 - **Docker**
+- **AWS Cli** (Pendente)
+- **Podman Compose** (Pendente)
 - **Git**
 - **Groovy**
 - **Golang**
