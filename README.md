@@ -133,7 +133,7 @@ Após a instalação e com as credenciais de acesso ao k8s (fornecidas pelo gole
 
 1. Copie as configurações fornecidades pelo goleiro para esse arquivo
 ```console
-foo@bar $ cd ~ && mkdir .kube/ && cd .kube/ vi config
+foo@bar $ cd ~ && mkdir .kube/ && cd .kube/ && vi config
 ```
 2. Use vários arquivos kubeconfig ao mesmo tempo
 ```console
